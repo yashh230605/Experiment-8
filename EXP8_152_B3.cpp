@@ -207,3 +207,83 @@ cout<<"Diagonal Sum: "<<da<<endl;
 }
 
 
+//Output
+Enter the 0 0 element: 1
+Enter the 0 1 element: 2
+Enter the 1 0 element: 3
+Enter the 1 1 element: 4
+1 2 
+3 4 
+Enter no. of rows: 2
+Enter no. of columns: 3
+
+Matrix 1: 
+Enter the 0 0 element: 12
+Enter the 0 1 element: 2
+Enter the 0 2 element: 3
+Enter the 1 0 element: 7
+Enter the 1 1 element: 3
+Enter the 1 2 element: 4
+
+Matrix 2: 
+Enter the 0 0 element: 1
+Enter the 0 1 element: 2
+Enter the 0 2 element: 7
+Enter the 1 0 element: 0
+Enter the 1 1 element: 8
+Enter the 1 2 element: 6
+
+Sum: 
+7 4 7 
+7 11 10 
+
+Enter no. of rows: 2 
+Enter no. of columns: 3
+
+Matrix 1: 
+Enter the 0 0 element: 1
+Enter the 0 1 element: 2
+Enter the 0 2 element: 3
+Enter the 1 0 element: 4
+Enter the 1 1 element: 56
+Enter the 1 2 element: 
+6
+
+Matrix 2: 
+Enter the 0 0 element: 7
+Enter the 0 1 element: 8
+Enter the 0 2 element: 9
+Enter the 1 0 element: 0
+Enter the 1 1 element: 1
+Enter the 1 2 element: 2
+
+Product: 
+0 0 2 
+0 0 2
+
+Enter no. of rows: 2
+Enter no. of columns: 3
+
+Matrix 1: 
+Enter the 0 0 element: 1
+Enter the 0 1 element: 2
+Enter the 0 2 element: 3
+Enter the 1 0 element: 4
+Enter the 1 1 element: 5
+Enter the 1 2 element: 6
+
+Diagonal Sum: 9
+Enter no. of rows: 2
+Enter no. of columns: 3
+
+Matrix 1: 
+Enter the 0 0 element: 6
+Enter the 0 1 element: 83
+Enter the 0 2 element: 3
+Enter the 1 0 element: 5
+Enter the 1 1 element: 9
+Enter the 1 2 element: 1
+
+Row equality: 0
+
+
